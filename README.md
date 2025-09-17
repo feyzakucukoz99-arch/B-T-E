@@ -1,2 +1,2 @@
 # B-T-E
-💰 Bütçe Uygulaması /Streamlit tabanlı interaktif bütçe yönetim aracı. 
+💰 Bütçe Uygulaması /İnteraktif bütçe yönetim aracı. 
